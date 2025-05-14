@@ -1,4 +1,4 @@
-## Following the flow of life
+## Following the flow of life.
 
 <!-- # 💻 Tech Stack:  -->
 <!--
