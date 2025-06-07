@@ -1,6 +1,6 @@
 ## Following the flow of life.
 <!-- # 💻 Tech Stack:  -->
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo"  />
   <img width="12" />
@@ -20,7 +20,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="48" alt="php logo"  />
 </div>
-###
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
