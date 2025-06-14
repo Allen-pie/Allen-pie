@@ -23,4 +23,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
 </div>
 
+![](https://github.com/Allen-pie/Allen-pie/blob/main/readme_gif.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
