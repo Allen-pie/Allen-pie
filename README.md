@@ -24,7 +24,7 @@
 </div>
 
 ##
-<img src />
+<img src='https://github.com/Allen-pie/Allen-pie/blob/bcdfbefef643bf19b229a46db64e6becf0c9b681/WhatsApp%20Image%202025-07-03%20at%2022.48.33_fdc20ff7.jpg' />
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Allen-pie/Allen-pie/main/readme_gif.gif" alt="My GIF" />
