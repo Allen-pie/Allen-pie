@@ -24,8 +24,10 @@
 </div>
 
 ##
-<div align="center">
+<img src />
+
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Allen-pie/Allen-pie/main/readme_gif.gif" alt="My GIF" />
 </div>
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
