@@ -3,7 +3,7 @@
 
 
 <h1>
-  Good at being average. Enjoy and keep being sane.
+  Enjoy and keep being sane 🙏. 
 </h1>
 
 <div align="left">
