@@ -1,6 +1,11 @@
 <!-- ## Following the flow of life.  -->
 <!-- # 💻 Tech Stack:  -->
 
+
+<h1>
+  Good at being average. Enjoy and keep being sane.
+</h1>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo"  />
   <img width="12" />
