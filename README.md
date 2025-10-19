@@ -2,10 +2,11 @@
 <!-- # 💻 Tech Stack:  -->
 
 
-<h1>
+<h2>
   Enjoy and keep being sane 🙏. 
-</h1>
+</h2>
 
+<!--
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo"  />
   <img width="12" />
@@ -27,11 +28,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
 </div>
-
-<!--
-##
-<img src='https://github.com/Allen-pie/Allen-pie/blob/bcdfbefef643bf19b229a46db64e6becf0c9b681/WhatsApp%20Image%202025-07-03%20at%2022.48.33_fdc20ff7.jpg' />
 -->
+
+<img src='https://github.com/Allen-pie/Allen-pie/blob/bcdfbefef643bf19b229a46db64e6becf0c9b681/WhatsApp%20Image%202025-07-03%20at%2022.48.33_fdc20ff7.jpg' />
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Allen-pie/Allen-pie/main/readme_gif.gif" alt="My GIF" />
