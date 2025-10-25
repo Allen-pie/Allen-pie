@@ -1,9 +1,9 @@
 <!-- ## Following the flow of life.  -->
 <!-- # 💻 Tech Stack:  -->
 
-<h2>
-   I like to eat food 🍽️
-</h2>
+<h3>
+   What carries the weight is the decision to take a step forward, when it would be easier to just stand still.
+</h3>
 
 <!--
 <div align="left">
@@ -34,7 +34,7 @@
 </div> -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Allen-pie/Allen-pie/main/readme_gif.gif" alt="My GIF" />
-</div>
+</div> -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
